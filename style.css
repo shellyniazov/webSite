@@ -26,3 +26,24 @@
     padding-left: 20px;
 
 }
+
+
+.hero {
+    background: white url(images/hero1.jpg) no-repeat center center;
+    background-size: cover;
+    width: 100%;
+    height: calc(100vh - 90px);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    position: relative;
+}

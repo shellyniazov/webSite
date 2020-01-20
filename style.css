@@ -94,3 +94,39 @@
     align-items: center;
     justify-content: center;
 }
+
+
+.newslatter {
+    background: white url(images/img.png) no-repeat center center;
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 180px;
+    width: auto;
+    margin-bottom: 90px;
+    background-color: rgba(134, 134, 134, 0.9);
+    opacity: 0.85;
+    height: 300px;
+
+}
+
+#email{
+    width: 100%;
+    background-color: transparent;
+    color: #ffffff;
+} 
+
+.titleEmail{
+    color: #ffffff;
+}
+.submit
+{
+    border: 0px;
+    background-color: rgb(62, 198, 255);
+    left: 1175px;
+    top: 1630px;
+    color: white;
+    height: calc(1.5em + .75rem + 2px);
+    width:60%;
+}

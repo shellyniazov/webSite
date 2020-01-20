@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-nav {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    text-align: right;
+}
+
+.navbar {
+    background-color: aliceblue;
+    padding: 0;
+
+}
+
+.navbar-brand {
+    height: 40px;
+    padding-left: 20px;
+
+}
